@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GoT-Characters/static/css/main.23438b91.css",
+    "main.js": "/GoT-Characters/static/js/main.d2084335.js",
+    "static/js/787.fde02da4.chunk.js": "/GoT-Characters/static/js/787.fde02da4.chunk.js",
+    "static/media/banner.jpg": "/GoT-Characters/static/media/banner.c20003a99ad1a669e6c2.jpg",
+    "index.html": "/GoT-Characters/index.html",
+    "main.23438b91.css.map": "/GoT-Characters/static/css/main.23438b91.css.map",
+    "main.d2084335.js.map": "/GoT-Characters/static/js/main.d2084335.js.map",
+    "787.fde02da4.chunk.js.map": "/GoT-Characters/static/js/787.fde02da4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23438b91.css",
+    "static/js/main.d2084335.js"
+  ]
+}
